@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605809326326",
+    "project_id": "plantcollection-2aadc",
+    "storage_bucket": "plantcollection-2aadc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605809326326:android:b397951f12f8b2820b54d7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_plant_collection_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605809326326-hghjjv88l43ilhhgpmaem95m89tjuibo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQzA4GbrYXGJZVv26Zu2SL44PK-d0x1Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605809326326-hghjjv88l43ilhhgpmaem95m89tjuibo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
